@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.logo :active{
+  position: relative;
+  top:10px;
+}
+
+.logo img{
+  display: block;
+  margin: auto;
+}
