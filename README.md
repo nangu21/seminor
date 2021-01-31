@@ -1,1 +1,1 @@
-# seminor
+# seminor_logo
